@@ -17,7 +17,6 @@
 >
 >I am a DevOps Coach; it is a vocation, not a job.
 >
-
 >I love what I do."
 
 
@@ -32,6 +31,7 @@
 [GitLab Certified Security Specialist](https://www.credly.com/badges/a64f651f-aa8c-4000-bf6e-9e5d3070dcb6/public_url)
 
 [GitLab Certified Services Engineer Professional](https://www.credly.com/badges/90be4ffc-c869-4d0c-8143-99fcbe7099d5/public_url)
+
 
 [GitLab Certified Migration Services Specialist](https://www.credly.com/badges/5ed58594-5438-45df-b57a-f2f8ef7435eb/public_url)
 

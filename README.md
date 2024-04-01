@@ -23,7 +23,7 @@
 >
 >I am a DevOps Coach; it is a vocation, not a job.
 >
->I love what I do."
+>I do it, because I love it."
 
 
 ## Professional Certification

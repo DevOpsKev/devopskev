@@ -1,7 +1,13 @@
 # Kevin Ryan (@DevOpsKev)
 
+## Open Source Advocate, DevOps Coach, DevOps Engineer, Blogger, Podcaster, Author, Founder
 
-### 💬  "What is it you do Kevin?"
+### 💬  "Describe a DevOps Coach?"
+
+> "An Agile Coach will console you about your problems. A DevOps Coach will use a console to help you solve them. I'm the more hands on type."
+
+
+### 💬  "Why do you do it?"
 
 >"No matter their goal. I coach people in the ability to learn faster and change faster. People may be individuals, teams or entire organizations. My clients operate within the digital economy and are involved in the development of technology-enabled products. 
 >

@@ -35,7 +35,7 @@
 
 ## Happy Customers
 <a href="https://reporacers.com">
-  <img alt="repo-racers" src="https://github.com/DevOpsKev/devopskev/blob/main/images/client_logos.png" />
+  <img alt="repo-racers" src="https://github.com/DevOpsKev/devopskev/blob/main/images/logos_clients.png" />
 </a>
 
 ## Repo Racers

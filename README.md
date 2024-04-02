@@ -35,9 +35,7 @@
 
 ## Repo Racers
 <a href="https://reporacers.com">
-  <picture>
-    <img alt="repo-racers" src="https://github.com/DevOpsKev/devopskev/blob/main/images/jaron_lanier.png" />
-  </picture>
+  <img alt="repo-racers" src="https://github.com/DevOpsKev/devopskev/blob/main/images/jaron_lanier.png" />
 </a>
 
 I am deeply passionate about Repo Racers, an open-source initiative I spearhead. It serves as a comprehensive repository for achieving technical excellence in GitHub and Azure DevOps implementation, offering a range of tools, pre-built actions, and DevOps reference architectures.

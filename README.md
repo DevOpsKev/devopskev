@@ -1,6 +1,6 @@
 # Kevin Ryan (@DevOpsKev)
 
-<img alt="github-snake" src="https://github.com/DevOpsKev/devopskev/blob/snake/github-contribution-grid-snake.svg" />
+<img alt="github-snake" src="https://github.com/DevOpsKev/devopskev/blob/snake/github-contribution-grid-snake-dark.svg" />
 
 
 ## Open Source Advocate, DevOps Coach, DevOps Engineer, Blogger, Podcaster, Author, Founder
@@ -24,6 +24,7 @@
 >
 >Every day I work I am financially rewarded for learning new things and helping others do the same.
 >
+
 >I am a DevOps Coach; it is a vocation, not a job.
 >
 >I do it, because I love it."

@@ -31,7 +31,7 @@
 >I do it, because I love it."
 
 ## Repo Racers
-<a href="https:reporacers.com" target="_blank">
+<a href="https://reporacers.com">
   <picture>
     <img alt="repo-racers" src="https://github.com/DevOpsKev/devopskev/blob/main/images/jaron_lanier.png" />
   </picture>

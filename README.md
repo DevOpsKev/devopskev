@@ -18,17 +18,20 @@
 >
 >I have a diverse set of skills and experience. This characteristic is essential for success at what I do. That is coach and mentor teams which consist of talented professionals representing a broad range of specialisms.
 >
->Although my skills and experience are diverse, they are all relative to the digital economy and the development of technology-enabled products. 
->
->My specialism is coaching people in how to translate DevOps principles into practice. To help those people reduce the time it takes to develop new technology-enabled products.
->
->The speed at which those products are developed and then delivered has a direct influence upon their commercial success.
+>My own specialism is coaching people in how to translate DevOps principles into practice.
 >
 >Every day I work I am financially rewarded for learning new things and helping others do the same.
 >
 >I am a DevOps Coach; it is a vocation, not a job.
 >
 >I do it, because I love it."
+
+### 💬  "What's your special source?"
+>I've worn many hats throughout my career, including senior technical leadership roles, management consult, agile coach, and all-out hardcore engineer.
+>
+>This experience allows me to operate at any level, bridging the communication gap from code-commit to CEO.
+>
+>That said, I've always been at my happiest elbow-deep in a code base.
 
 ## Repo Racers
 <a href="https://reporacers.com">

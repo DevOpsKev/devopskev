@@ -44,7 +44,7 @@
 I recently had the privilege of working with CERN on an architectural design for control systems for the large hardon collider. I played a modest role in the project, focusing on Kubernetes architectures and reviewing CICD implementations. It was just amazing to be a part of the CERN project. Smart people, as you would expect, it felt good to have to raise my bar to meet the challenge.
 
 ### [Lunar Zebro](https://zebro.space/)
-Working with Alten, I had the opportunity to get involved with a moon lander project at TU Delft. How could I say no? I spent over two years working with the team as a DevOps Coach, mentor, and hands-on DevOps engineer. The team was a young group of amazingly talented individuals. The future is in good hands.
+Working with the Alten Group, I had the opportunity to get involved with a moon lander project at TU Delft. How could I say no? I spent over two years working with the team as a DevOps Coach, mentor, and hands-on DevOps engineer. The team was a young group of amazingly talented individuals. The future is in good hands.
 
 ### [Financial Times](https://www.ft.com/)
 Although it goes back a bit, working with the FT remains one of my favorite engagements. We did great work on .com, paving the way to a sale of FT.com to the Nikkei index for 1.3 billion dollars. It was fantastic working with journalists and techies alike. It was a special time, and I made some friends for life.

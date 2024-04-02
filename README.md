@@ -1,10 +1,7 @@
 # Kevin Ryan (@DevOpsKev)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DevOpsKev/devopskev/blob/snake/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DevOpsKev/devopskev/blob/snake/github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<img alt="github-snake" src="https://github.com/DevOpsKev/devopskev/blob/snake/github-contribution-grid-snake.svg" />
+
 
 ## Open Source Advocate, DevOps Coach, DevOps Engineer, Blogger, Podcaster, Author, Founder
 

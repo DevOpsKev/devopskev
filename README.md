@@ -8,7 +8,7 @@
 
 ## Open Source Advocate, DevOps Coach, DevOps Engineer, Blogger, Podcaster, Author, Founder
 
-### 💬  "Describe a DevOps Coach?"
+### 💬  "What is a DevOps Coach?"
 
 > "An Agile Coach will console you about your problems. A DevOps Coach will use a console to help you solve them. I'm the more hands on type."
 

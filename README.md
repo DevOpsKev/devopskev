@@ -10,7 +10,7 @@
 
 ### 💬  "What is a DevOps Coach?"
 
-> "An Agile Coach will console you about your problems. A DevOps Coach will use a console to help you solve them. I'm the more hands on type."
+> "An Agile Coach will console you about your problems. A DevOps Coach will use a console to help you solve them. We're more hands on."
 
 ### 💬  "Why do you do it?"
 

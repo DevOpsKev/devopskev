@@ -6,13 +6,11 @@
   <img alt="github-snake" src="https://github.com/DevOpsKev/devopskev/blob/snake/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-
 ## Open Source Advocate, DevOps Coach, DevOps Engineer, Blogger, Podcaster, Author, Founder
 
 ### 💬  "Describe a DevOps Coach?"
 
 > "An Agile Coach will console you about your problems. A DevOps Coach will use a console to help you solve them. I'm the more hands on type."
-
 
 ### 💬  "Why do you do it?"
 
@@ -28,11 +26,14 @@
 >
 >Every day I work I am financially rewarded for learning new things and helping others do the same.
 >
-
 >I am a DevOps Coach; it is a vocation, not a job.
 >
 >I do it, because I love it."
 
+## Repo Racers
+<picture>
+  <img alt="repo-racers" src="https://github.com/DevOpsKev/devopskev/blob/main/images/jaron_lanier.png" />
+</picture>
 
 ## Professional Certification
 

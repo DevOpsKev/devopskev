@@ -33,6 +33,11 @@
 >
 >That said, I've always been at my happiest elbow-deep in a code base.
 
+## Happy Customers
+<a href="https://reporacers.com">
+  <img alt="repo-racers" src="https://github.com/DevOpsKev/devopskev/blob/main/images/logos.png" />
+</a>
+
 ## Repo Racers
 <a href="https://reporacers.com">
   <img alt="repo-racers" src="https://github.com/DevOpsKev/devopskev/blob/main/images/jaron_lanier.png" />

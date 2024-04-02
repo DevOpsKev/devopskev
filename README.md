@@ -26,7 +26,7 @@
 >
 >I do it, because I love it."
 
-### 💬  "What's your special source?"
+### 💬  "What's your special sauce?"
 >I've worn many hats throughout my career, including senior technical leadership roles, management consult, agile coach, and all-out hardcore engineer.
 >
 >This experience allows me to operate at any level, bridging the communication gap from code-commit to CEO.

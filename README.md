@@ -31,9 +31,11 @@
 >I do it, because I love it."
 
 ## Repo Racers
-<picture>
-  <img alt="repo-racers" src="https://github.com/DevOpsKev/devopskev/blob/main/images/jaron_lanier.png" />
-</picture>
+<a href="https:reporacers.com" target="_blank">
+  <picture>
+    <img alt="repo-racers" src="https://github.com/DevOpsKev/devopskev/blob/main/images/jaron_lanier.png" />
+  </picture>
+</a>
 
 I am deeply passionate about Repo Racers, an open-source initiative I spearhead. It serves as a comprehensive repository for achieving technical excellence in GitHub and Azure DevOps implementation, offering a range of tools, pre-built actions, and DevOps reference architectures.
 Operating under a sponsorware release strategy, Repo Racers thrives on community support.
@@ -46,7 +48,8 @@ Check it out here: **[reporacers.com](https://reporacers.com/)**
 
 [GitLab Certified Implementation Services Specialist](https://www.credly.com/badges/e26a2c43-089b-46fb-9529-2e7133ae2285/public_url)
 
-[GitLab Certified DevOps Professional](https://www.credly.com/badges/73b62343-d671-4477-b412-2d833dc4ea42/public_url)
+[GitLab Certified DevOps Professional](https://www.credly.com/badges/73b62343-d671-4477-b412-2d833dc4ea42/public_url
+)
 
 [GitLab Certified Security Specialist](https://www.credly.com/badges/a64f651f-aa8c-4000-bf6e-9e5d3070dcb6/public_url)
 

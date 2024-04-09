@@ -90,3 +90,4 @@ Check it out here: **[reporacers.com](https://reporacers.com/)**
 [Launch Darkly Silver Developer Certification](https://verify.skilljar.com/c/cw4ix2japf23)
 
 [Launch Darkly Bronze Developer Certification](https://verify.skilljar.com/c/8m35pkrme9s8)
+

@@ -61,7 +61,7 @@ Check it out here: **[reporacers.com](https://reporacers.com/)**
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,angular,ansible,arduino,aws,azure,bash,bitbucket,bootstrap,c,cs,cpp,cloudflare,cmake,css,discord,docker,elasticsearch,ember,fastapi,flask,git,github,githubactions,gitlab,gherkin,go,grafana,html,ai,java,js,jenkins,kubernetes,linux,md,maven,mysql,neovim,nginx,nodejs,npm,postgres,postman,prometheus,py,raspberrypi,react,regex,spring,sqlite,sublime,tailwind,terraform,ubuntu,vscode)](#)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,angular,ansible,arduino,aws,azure,bash,bitbucket,bootstrap,c,cs,cpp,cloudflare,cmake,css,discord,docker,elasticsearch,ember,fastapi,flask,git,github,githubactions,gitlab,gherkin,go,grafana,html,java,js,jenkins,kubernetes,linux,md,maven,mysql,neovim,nginx,nodejs,npm,postgres,postman,prometheus,py,raspberrypi,react,regex,spring,sqlite,sublime,tailwind,terraform,ubuntu,vscode)](#)
 
 ## Professional Certification
 

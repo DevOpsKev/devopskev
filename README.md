@@ -59,6 +59,10 @@ Operating under a sponsorware release strategy, Repo Racers thrives on community
 My enthusiasm stems from the opportunity to share insights, lessons learned, and foster the adoption of DevOps best practices within the development community.
 Check it out here: **[reporacers.com](https://reporacers.com/)**
 
+## Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](#)
+
 ## Professional Certification
 
 ### GitLab

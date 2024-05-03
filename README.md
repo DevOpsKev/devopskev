@@ -65,6 +65,10 @@ Check it out here: **[reporacers.com](https://reporacers.com/)**
 
 ## Professional Certification
 
+### GitHub
+
+[GitHub Foundations](https://www.credly.com/badges/2cf756b5-013f-4336-adda-1af6ce3c11c8/public_url)
+
 ### GitLab
 
 [GitLab Certified Implementation Services Specialist](https://www.credly.com/badges/e26a2c43-089b-46fb-9529-2e7133ae2285/public_url)

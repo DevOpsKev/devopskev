@@ -67,6 +67,8 @@ Check it out here: **[reporacers.com](https://reporacers.com/)**
 
 ### GitHub
 
+[GitHub Actions](https://www.credly.com/badges/b4a9987d-3a31-4cf3-8ee9-53607a4ef572)
+
 [GitHub Advanced Security](https://www.credly.com/badges/74bdfd55-a572-46a9-9c00-5d4158385ca9)
 
 [GitHub Foundations](https://www.credly.com/badges/2cf756b5-013f-4336-adda-1af6ce3c11c8/public_url)

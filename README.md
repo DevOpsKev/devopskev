@@ -75,6 +75,8 @@ Check it out here: **[reporacers.com](https://reporacers.com/)**
 
 ### GitLab
 
+[Gitlab Accredited Partner Technical Engineer](https://www.credly.com/badges/60bf5ece-b4b0-4bec-9c56-fc4d227fc689)
+
 [GitLab Certified Implementation Services Specialist](https://www.credly.com/badges/e26a2c43-089b-46fb-9529-2e7133ae2285/public_url)
 
 [GitLab Certified DevOps Professional](https://www.credly.com/badges/73b62343-d671-4477-b412-2d833dc4ea42/public_url
@@ -83,7 +85,6 @@ Check it out here: **[reporacers.com](https://reporacers.com/)**
 [GitLab Certified Security Specialist](https://www.credly.com/badges/a64f651f-aa8c-4000-bf6e-9e5d3070dcb6/public_url)
 
 [GitLab Certified Services Engineer Professional](https://www.credly.com/badges/90be4ffc-c869-4d0c-8143-99fcbe7099d5/public_url)
-
 
 [GitLab Certified Migration Services Specialist](https://www.credly.com/badges/5ed58594-5438-45df-b57a-f2f8ef7435eb/public_url)
 

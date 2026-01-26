@@ -6,32 +6,19 @@
   <img alt="github-snake" src="https://github.com/DevOpsKev/devopskev/blob/snake/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-## Open Source Advocate, DevOps Coach, DevOps Engineer, Blogger, Podcaster, Author, Founder
+## DevOps & Agile Coach · AI Adoption & Governance · Author
 
-### 💬  "What is a DevOps Coach?"
+I help organizations adopt AI responsibly — balancing technical implementation with ethical frameworks and governance, while empowering development teams to leverage AI tools for better code quality and productivity.
 
-> "An Agile Coach will console you about your problems. A DevOps Coach will use a console to help you solve them. We're more hands on."
+Author of "AI Immigrants" and founder of DistributedEquity.
 
-### 💬  "Why do you do it?"
+## About
 
->"No matter their goal. I coach people in the ability to learn faster and change faster. People may be individuals, teams or entire organizations. My clients operate within the digital economy and are involved in the development of technology-enabled products. 
->
->I have a diverse set of skills and experience. This characteristic is essential for success at what I do. That is coach and mentor teams which consist of talented professionals representing a broad range of specialisms.
->
->My own specialism is coaching people in how to translate DevOps principles into practice.
->
->Every day I work I am financially rewarded for learning new things and helping others do the same.
->
->I am a DevOps Coach; it is a vocation, not a job.
->
->I do it, because I love it."
+I build AI-powered software and help companies modernize how they develop and deploy technology. Over the years, I've worked with clients ranging from startups to multinational corporations across Europe, wearing different hats depending on what they needed—agile coach, engineer, product owner, enterprise consultant. But software engineering has always been my foundation. It's where I started, and it's what keeps me grounded when I'm helping organizations transform.
 
-### 💬  "What's your special sauce?"
->I've worn many hats throughout my career, including senior technical leadership roles, management consultant, agile coach, and all-out hardcore engineer.
->
->This experience allows me to operate at any level, bridging the communication gap from code-commit to CEO.
->
->That said, I've always been at my happiest elbow-deep in a code base.
+I'm based between the UK and Hungary, work remotely, and travel when projects or conferences need me there in person.
+
+Right now, I'm focused on the ethical application of AI and exploring frameworks like Specification-Driven Development that amplify what developers can do rather than replace them.
 
 ## Happy Customers
 <a href="https://reporacers.com">
@@ -49,15 +36,9 @@ Working with the Alten Group, I had the opportunity to get involved with a moon 
 ### [Financial Times](https://www.ft.com/)
 Although it goes back a bit, working with the FT remains one of my favorite engagements. We did great work on .com, paving the way to a sale of FT.com to the Nikkei index for 1.3 billion dollars. It was fantastic working with journalists and techies alike. It was a special time, and I made some friends for life.
 
-## Repo Racers
-<a href="https://reporacers.com">
-  <img alt="repo-racers" src="https://github.com/DevOpsKev/devopskev/blob/main/images/radia_perlman.png" />
-</a>
+### [HelloFresh](https://hellofresh.com/)
 
-I am deeply passionate about Repo Racers, an open-source initiative I spearhead. It serves as a comprehensive repository for achieving technical excellence in GitHub and Azure DevOps implementation, offering a range of tools, pre-built actions, and DevOps reference architectures.
-Operating under a sponsorware release strategy, Repo Racers thrives on community support.
-My enthusiasm stems from the opportunity to share insights, lessons learned, and foster the adoption of DevOps best practices within the development community.
-Check it out here: **[reporacers.com](https://reporacers.com/)**
+Agile coach for the Berlin-based startup during the critical period leading to their €1.5 billion IPO. Coached engineering teams on delivery practices and collaboration as they scaled from startup to public company.
 
 ## Skills
 
